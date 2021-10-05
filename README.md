@@ -10,24 +10,24 @@ About teacher:
 
 name       code               subject                   publication
 
-Ataur      420          programming with c++        Tata McGraw Hill
-
+Ataur      420          programming with kotlin      Tata McGraw Hill
+-------------------------------------------------------------------------
 About officer:
 
 name                code               Category
 
 Md. Rashed          222               First class
-
+-------------------------------------------------------------------------
 About regular typist :
 
 name              code           speed                  wage
 
 Robiul Awal       333            85.5                   15000
-
+-------------------------------------------------------------------------
 About causal typist :
 
 name                  code            speed             wage
 
-Kawser Ahmed          333           78.900002         10000
+Kawser Ahmed          333           78.900002          10000
 ```
 
