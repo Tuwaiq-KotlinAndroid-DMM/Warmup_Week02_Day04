@@ -30,6 +30,6 @@ About causal typist :
 
 name                  code            speed          daily          wage
 
-Kawser Ahmed          333           78.900002          1            10000
+Kawser Ahmed          333           78.900002         Yes            10000
 ```
 
