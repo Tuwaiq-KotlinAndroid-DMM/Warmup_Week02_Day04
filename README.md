@@ -28,8 +28,8 @@ Robiul Awal       333            85.5
 -------------------------------------------------------------------------
 About causal typist :
 
-name                  code            speed             wage
+name                  code            speed          daily          wage
 
-Kawser Ahmed          333           78.900002          10000
+Kawser Ahmed          333           78.900002          1            10000
 ```
 
