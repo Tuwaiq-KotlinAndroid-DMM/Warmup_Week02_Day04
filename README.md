@@ -16,15 +16,15 @@ Ataur      420          programming with kotlin      Tata McGraw Hill
 -------------------------------------------------------------------------
 About officer:
 
-name                code               Category
+name                code               Grade
 
 Md. Rashed          222               First class
 -------------------------------------------------------------------------
 About regular typist :
 
-name              code           speed                  wage
+name              code           speed              
 
-Robiul Awal       333            85.5                   15000
+Robiul Awal       333            85.5           
 -------------------------------------------------------------------------
 About causal typist :
 
